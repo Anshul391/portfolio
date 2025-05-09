@@ -13,8 +13,8 @@ This is a simple portfolio web app built with Streamlit to showcase selected Git
 
 1. **Clone this repository**
    ```bash
-   git clone <your-repo-link>
-   cd <your-repo-folder>
+   git clone https://github.com/Anshul391/portfolio.git
+   cd portfolio
    ```
 
 2. **Install dependencies**
@@ -32,6 +32,4 @@ This is a simple portfolio web app built with Streamlit to showcase selected Git
 
 ## Customization
 - Edit `app.py` to update project descriptions or add more projects.
-
-## License
-This project is for educational and personal use. 
+. 
